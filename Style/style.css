@@ -1,3 +1,48 @@
-.ul{
-    margin: 10px;
+.body{
+    margin: 0;
 }
+
+.card{
+width: 400px;
+margin: 75px auto;
+border:2px solid lightseagreen;
+text-align: center;
+}
+.background{
+    height: 200px;
+    background-color: lightseagreen;
+}
+
+.content{
+    width: 80%;
+    margin: 0 auto;
+
+}
+
+.info{
+    margin-top: -75px;
+}
+.info > ul {
+    display:inline-block;
+    margin: 0;
+    list-style: url('/Icons/icon.png');
+}
+
+.button{
+    background-color:lightseagreen;
+   
+}
+.avatar{
+width: 150px;
+height: 150px;
+border-radius: 100px;
+}
+
+.socials {
+    background-color:lightseagreen;
+    height: 65px;
+    padding-top: 25px;
+}
+
+
+
